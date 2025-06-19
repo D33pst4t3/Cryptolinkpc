@@ -30,4 +30,4 @@ Press Enter to exit the program.
 
 # Why use the Cryptolinkpc wallet generator?
 
-You can generate wallets very fast compared to other avaialable software and without a connection to internet! The program as been developed and tested under the operating system Windows 11.
+You can generate wallets very fast compared to other available software and without a connection to internet! The program as been developed and tested under the operating system Windows 11.
